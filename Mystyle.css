@@ -1,0 +1,58 @@
+
+body {font-size: 18px;
+      font-family: Arial;
+      font-weight: 200;
+      line-height: 1.5;
+}
+h1{text-align: center;
+    
+    }
+em{color: green;
+}
+.p{font-size:1rem;}
+
+p.main{font-size: 1.3em; 
+       text-indent: 1.5em;
+}
+h3{font-size:1.5em;
+   font-style: italic;
+   text-align: center;
+}
+h4{font-size:1.2em;
+   text-align: center;
+}
+h6{font-size:1.2em;
+   text-align: center;
+}
+dt {color: red;
+   font-size: 1.4em;
+}
+p#eat{font-size: 25px; 
+    font-weight: bold;
+    text-align: center;
+}
+ul li{ font-size: 20px;
+    font-weight: 400;
+    color: slateblue;
+}
+p#hotels{font-size: 25px; 
+    font-weight: bold;
+    text-align: center;
+}
+p#btn{ font-size: 20px;
+       color: rgb(47, 0, 255);
+}
+p#youtube{font-size: 25px; 
+          font-weight: bold;
+          text-align: center;
+}
+p#stock{font-size: x-large;
+       font-weight: bold;
+       color: red;
+       text-align: center;
+}
+button{font-size: 16px;
+      background-color: rgb(42, 165, 144);
+      padding: 8px 16px;
+
+    }
