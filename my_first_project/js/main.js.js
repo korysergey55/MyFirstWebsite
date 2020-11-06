@@ -1,5 +1,4 @@
 
-
 function Serhiy(name, age) {
 alert (`Hello my name is ${name}. I am ${age} years old. It is my first website with Java Script.`);
 };
